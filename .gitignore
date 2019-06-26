@@ -3,7 +3,7 @@
 # Gradle files
 .gradle/
 
-# User-specific configurations
+# User-specific  configurations
 *.iml
 
 # OS-specific files
